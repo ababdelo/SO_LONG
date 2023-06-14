@@ -8,7 +8,7 @@
  </h3>
  <br>
  <div align="center">
- <img src=https://github.com/ababdelo/42Cursus/blob/master/SO_LONG/Preview/Bonus/bonus_preview.png/>
+ <img src=https://github.com/ababdelo/SO_LONG/blob/master/Preview/Bonus/bonus_preview.png/>
 </div>
 
 ### Table of Contents
